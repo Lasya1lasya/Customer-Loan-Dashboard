@@ -11,9 +11,8 @@ This project is fully integrated with **Power BI Service** for real-time data up
 - **Live Dashboard Sharing** → Published the dashboard to Power BI Service for stakeholder access.
 
 ### 📌 Workflow Overview
-1. **Data Source** → Excel / CSV / Database  
+1. **Data Source** → SQL Server Database  
 2. **Power BI Dataflow** → Automated cleaning & transformation in the cloud  
 3. **Dataset Refresh** → Daily scheduled + incremental refresh  
 4. **Dashboard Publishing** → Shared via Power BI Service  
 
-*(Add screenshots here showing your Dataflows, Scheduled Refresh settings, and Service Dashboard)*
