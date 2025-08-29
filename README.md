@@ -14,7 +14,7 @@ It helps stakeholders track **loan performance, customer segmentation, risk anal
 - **Loan Segmentation Analysis** → Based on age, income, loan type, and repayment history
 - **Key Metrics** → Loan disbursement, overdue amounts, defaults, and customer retention
 
----### 🔹 Features Implemented in Power BI Service:
+### 🔹 Features Implemented in Power BI Service:
 - **Dataflows** → Built automated ETL pipelines to clean and transform customer loan data.
 - **Scheduled Refresh** → Configured to refresh **daily** for up-to-date reporting.
 - **Incremental Refresh** → Set up to handle **large datasets efficiently** by processing only new records.
@@ -29,8 +29,7 @@ It helps stakeholders track **loan performance, customer segmentation, risk anal
 | Active Customers | Count of active loan holders |
 | Default Rate | Percentage of unpaid loans |
 | Loan Type Distribution | Breakdown of loan types |
-
-
+|year over year | loan amount and defult changes |
 ## 🛠 Tech Stack
 - **Power BI** → Dashboard & Visualizations  
 - **Power BI Service** → Dataflows, Scheduled Refresh  
