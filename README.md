@@ -11,8 +11,42 @@ This project is fully integrated with **Power BI Service** for real-time data up
 - **Live Dashboard Sharing** → Published the dashboard to Power BI Service for stakeholder access.
 
 ### 📌 Workflow Overview
-1. **Data Source** → SQL Server Database  
-2. **Power BI Dataflow** → Automated cleaning & transformation in the cloud  
-3. **Dataset Refresh** → Daily scheduled + incremental refresh  
-4. **Dashboard Publishing** → Shared via Power BI Service  
+1. **Data Source** → SQL Server Database
+3. **Power BI Dataflow** → Automated cleaning & transformation in the cloud  
+4. **Dataset Refresh** → Daily scheduled + incremental refresh  
+5. **Dashboard Publishing** → Shared via Power BI Service
+
+# 🏦 Customer Loan Data Dashboard (Power BI)
+
+## 📌 Project Overview
+This project is a **Power BI Dashboard** built to analyze **customer loan data** and provide actionable insights.  
+It helps stakeholders track **loan performance, customer segmentation, risk analysis, and repayment trends**.
+
+---
+
+## 🚀 Features
+- **Automated Data Cleaning & Transformation** → Implemented using **Power BI Dataflows**
+- **Scheduled & Incremental Refresh** → Ensures updated reports in real-time
+- **Interactive Dashboards** → KPIs, charts, slicers, and drill-through insights
+- **Loan Segmentation Analysis** → Based on age, income, loan type, and repayment history
+- **Key Metrics** → Loan disbursement, overdue amounts, defaults, and customer retention
+
+---
+
+## 📊 Dashboard Preview
+| KPI | Description |
+|------|------------|
+| Total Loans | Shows total loans issued |
+| Active Customers | Count of active loan holders |
+| Default Rate | Percentage of unpaid loans |
+| Loan Type Distribution | Breakdown of loan types |
+
+
+## 🛠 Tech Stack
+- **Power BI** → Dashboard & Visualizations  
+- **Power BI Service** → Dataflows, Scheduled Refresh  
+- **SQL Server** → Source Dataset  
+- **DAX** → For KPIs & Measures
+
+
 
