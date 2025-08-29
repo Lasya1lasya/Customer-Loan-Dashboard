@@ -30,9 +30,12 @@ It helps stakeholders track **loan performance, customer segmentation, risk anal
 | Default Rate | Percentage of unpaid loans |
 | Loan Type Distribution | Breakdown of loan types |
 |year over year | loan amount and defult changes |
+|Age Distribution | Over Loan Amount |
+|credit card scores | credit scores over age group |
+
 ## 🛠 Tech Stack
 - **Power BI** → Dashboard & Visualizations  
-- **Power BI Service** → Dataflows, Scheduled Refresh  
+- **Power BI Service** → Dataflows, Scheduled Refresh,Incremental Refresh. 
 - **SQL Server** → Source Dataset  
 - **DAX** → For KPIs & Measures
 
