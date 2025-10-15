@@ -22,6 +22,19 @@ It helps stakeholders track **loan performance, customer segmentation, risk anal
 - **Live Dashboard Sharing** → Published the dashboard to Power BI Service for stakeholder access.
 
 
+## 🔁 Power Automate Flow: Auto Refresh & Email Loan Dashboard
+
+This Power Automate flow automates the daily refresh and report distribution process for the Customer Loan Data dashboard.
+
+### Flow Actions:
+1. Trigger: Scheduled every day at 7:00 AM.
+2. Action 1: Refreshes the Power BI dataset (`Customer Loan Data`).
+3. Action 2: Waits 5 minutes to allow incremental refresh to complete.
+4. Action 3: Exports the updated Power BI report as a PDF.
+5. Action 4: Emails the PDF report automatically to the management team
+
+
+
 ## 📊 Dashboard Preview
 | KPI | Description |
 |------|------------|
