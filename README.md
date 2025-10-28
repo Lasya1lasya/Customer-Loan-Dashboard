@@ -45,7 +45,8 @@ This Power Automate flow automates the daily refresh and report distribution pro
 4. Action 3: Exports the updated Power BI report as a PDF.
 5. Action 4: Emails the PDF report automatically to the management team
 
-<img width="1385" height="745" alt="Screenshot 2025-10-28 105049" src="https://github.com/user-attachments/assets/7cb88708-78cd-4bcd-a524-c475933a2a38" />
+
+<img width="1385" height="789" alt="Screenshot 2025-10-28 110813" src="https://github.com/user-attachments/assets/67aff536-46c9-4b02-9694-594c4610d063" />
 
 
 ##  Dashboard Preview
