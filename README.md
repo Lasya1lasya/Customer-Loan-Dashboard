@@ -4,6 +4,11 @@
 ##  Project Overview
 This project is a **Power BI Dashboard** built to analyze **customer loan data** and provide actionable insights.  
 It helps stakeholders track **loan performance, customer segmentation, risk analysis, and repayment trends**.
+<img width="1310" height="747" alt="Screenshot 2025-10-15 152202" src="https://github.com/user-attachments/assets/77028425-ad68-4a7a-8a23-73423bffb336" />
+<img width="1276" height="688" alt="Screenshot 2025-08-29 144616" src="https://github.com/user-attachments/assets/b13dbb1b-2caa-4b5a-91df-d76c9475b87d" />
+![Uploading Screenshot 2025-08-29 144633.png…]()
+
+
 
 ---
 
