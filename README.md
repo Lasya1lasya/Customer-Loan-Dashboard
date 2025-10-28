@@ -27,6 +27,11 @@ It helps stakeholders track **loan performance, customer segmentation, risk anal
 - **Incremental Refresh** → Set up to handle **large datasets efficiently** by processing only new records.
 - **Dataset Management** → Centralized data storage and optimized performance using cloud-based service.
 - **Live Dashboard Sharing** → Published the dashboard to Power BI Service for stakeholder access.
+  
+<img width="1920" height="1080" alt="Screenshot 2025-08-29 144835" src="https://github.com/user-attachments/assets/8272402b-7fae-4842-b99b-ad0fa5c00cd8" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-29 145523" src="https://github.com/user-attachments/assets/b9821bce-581f-46bf-ba91-56eb8800abe5" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-29 145411" src="https://github.com/user-attachments/assets/b22f7cc4-0991-41e5-bc28-dfbbc51b12ed" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-29 145454" src="https://github.com/user-attachments/assets/f86f5159-4721-4767-a7ec-fbded09b9581" />
 
 
 ##  Power Automate Flow: Auto Refresh & Email Loan Dashboard
